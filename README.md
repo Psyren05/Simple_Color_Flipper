@@ -1,1 +1,3 @@
-# Simple_Color_Flipper
+# Simple Color Flipper
+## Description 
++ Just for practice
